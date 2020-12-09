@@ -1,0 +1,17 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.container {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+#game-canvas {
+	background-color: #eee;
+	display: block;
+	width: 480px;
+	height: 320px;
+}

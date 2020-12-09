@@ -6,7 +6,7 @@
 
 ## Overview
 
-<img src="./etc/brick-break.png" alt="Preview screenshot" width="480" />
+<img src="./etc/screen.png" alt="Preview screenshot" width="480" />
 
 <br />
 
